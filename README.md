@@ -9,13 +9,13 @@
 
 ---
 
-## 📱 About the Project
+##  About the Project
 
 **ChatApp** is a real-time chat application featuring individual chats. Built with **React**, **Chakra UI**, **Node.js**, **Express**, **MongoDB**, and **Socket.io**, this project demonstrates real-time communication with a beautiful and responsive interface.
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 🔹 Real-Time Messaging
 - Instant communication using Socket.io
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Frontend:** React, Chakra UI, Axios, Socket.io-client  
 - **Backend:** Node.js, Express, MongoDB, Mongoose, Socket.io  
@@ -38,15 +38,15 @@
 
 ---
 
-## 🧩 Installation
+##  Installation
 
-### ✅ Prerequisites
+### Prerequisites
 - Node.js installed
 - MongoDB (local or via MongoDB Atlas)
 
 ---
 
-### 🔧 Backend Setup
+### Backend Setup
 
 ```bash
 cd ChatApp/server
@@ -54,7 +54,7 @@ npm install
 npm start
 
 ```
-### 🔧 Frontend Setup
+### Frontend Setup
 
 ```bash
 cd ChatApp/public
@@ -63,15 +63,15 @@ npm start
 
 ```
 
-## 📸 Screenshots
+## Screenshots
 
-### 🔐 Login Page  
+### Login Page  
 ![Login Page](https://github.com/user-attachments/assets/7dd4a83f-e24d-47a5-ab88-55ccd39f3c2a)
 
-### 📝 Signup Page  
+### Signup Page  
 ![Signup Page](https://github.com/user-attachments/assets/6d97b935-aedc-422f-9642-a102b233b39e)
 
-### 💬 Chat Between Users  
+### Chat Between Users  
 ![Chat Page](https://github.com/user-attachments/assets/49dafc9e-bd18-43fb-a8af-7a7fcd458a5a)
 
 
