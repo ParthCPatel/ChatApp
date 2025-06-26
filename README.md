@@ -61,3 +61,19 @@ cd ChatApp/public
 npm install
 npm start
 
+```
+
+## 📸 Screenshots
+
+### 🔐 Login Page  
+![Login Page](https://github.com/user-attachments/assets/7dd4a83f-e24d-47a5-ab88-55ccd39f3c2a)
+
+### 📝 Signup Page  
+![Signup Page](https://github.com/user-attachments/assets/cea878f6-3c17-4135-8812-2c324f4c323a)
+
+### 💬 Chat Between Users  
+![Chat Page](https://github.com/user-attachments/assets/0c2146ca-a014-4fe2-9816-794b37fd82cf)
+
+
+
+
