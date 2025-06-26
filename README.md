@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snappy - Chat Application 
 Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
 
@@ -66,3 +67,6 @@ after the build is complete run the containers using the following command
 docker compose up
 ```
 now open localhost:3000 in your browser.
+=======
+# ChatApp
+>>>>>>> 4964ff6ea9b1db6e4993ddc90a0a35559987348b
