@@ -49,6 +49,15 @@
 ### 🔧 Backend Setup
 
 ```bash
-cd ChatApp/backend
+cd ChatApp/server
 npm install
+npm start
+
+```
+### 🔧 Frontend Setup
+
+```bash
+cd ChatApp/public
+npm install
+npm start
 
